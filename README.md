@@ -1,2 +1,3 @@
 # AlpacaPythonPractice
 AlpacaPythonPractice
+これから頑張るPython
